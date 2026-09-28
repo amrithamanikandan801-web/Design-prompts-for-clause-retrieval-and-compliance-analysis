@@ -1,0 +1,9 @@
+Vendor,Total_Shipments,Delayed_Shipments,Delay_Rate_%,Average_Delay_Days,Compliant_Shipments,Non_Compliant_Shipments,High_Risk_Shipments,Compliance_Rate_%,Overall_Risk,Vendor_Score,Recommendation
+Alpha Logistics,48,41,85.42,2.1,7,41,41,14.58,High,14.58,Detailed vendor review required. Monitor delivery delays and contract compliance.
+Beta Suppliers,65,55,84.62,1.98,10,55,55,15.38,High,15.38,Detailed vendor review required. Monitor delivery delays and contract compliance.
+Delta Traders,62,52,83.87,1.84,10,52,52,16.13,High,16.13,Detailed vendor review required. Monitor delivery delays and contract compliance.
+Epsilon Exports,62,52,83.87,2.47,10,52,52,16.13,High,16.13,Detailed vendor review required. Monitor delivery delays and contract compliance.
+Gamma Industries,79,68,86.08,2.0,11,68,68,13.92,High,13.92,Detailed vendor review required. Monitor delivery delays and contract compliance.
+Omega Supplies,60,44,73.33,1.72,16,44,44,26.67,High,26.67,Detailed vendor review required. Monitor delivery delays and contract compliance.
+Prime Logistics,69,50,72.46,2.1,19,50,50,27.54,High,27.54,Detailed vendor review required. Monitor delivery delays and contract compliance.
+Zeta Manufacturing,55,43,78.18,1.93,12,43,43,21.82,High,21.82,Detailed vendor review required. Monitor delivery delays and contract compliance.
